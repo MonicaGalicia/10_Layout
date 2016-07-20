@@ -1,0 +1,116 @@
+ .posicion {
+    position:relative;
+    left:100px;
+    
+ }
+
+ hr{
+ 	width:750px;
+ 	border-bottom:2px solid black;
+ }
+
+#Menu{
+	margin:10px 0px 10px 0px;
+}
+
+#hr_short{
+	width:100px;
+	border: 1px solid black;
+	position:relative;
+	left:430px;
+	margin:25px;
+}
+
+p{
+	text-align:center;
+	font-size:16px;
+	font-family:verdana;
+	margin:15px 0px 15px 0px;
+}
+
+#coders{
+width:130px;
+}
+
+a {
+	text-decoration:none;
+	font-size:20px;
+	color:black;
+	position:relative;
+	left:170px;
+}
+
+#rectangulo{
+	width:750px;
+	height:200px;
+	margin-top:15px;
+
+}
+
+.size-img{
+ height:200px;
+ width:200px;
+}
+
+#centrar{
+	
+	width:800px;
+}
+
+
+/*segunda página*/
+
+
+
+#circulo{
+  border-radius:50%; 
+  width:180px;
+height:180px;
+position:relative;
+left:400px;
+}
+
+
+#encabezado{
+	text-align:center;
+	
+}
+#parrafo{
+	
+	margin:10px 40px;
+	text-align:center;
+}
+
+.lenguajes{
+	width:400px;
+	height:45px;
+	background-color:grey;
+	
+}
+
+#caja2{
+	width:340px;
+	height:45px;
+}
+
+
+#caja3{
+	width:280px;
+	height:45px;
+}
+
+#portafolio{
+	width:750px;
+	height:200px;
+	border:solid black;
+	
+}
+
+
+
+
+.tamaño{
+	height:200px;
+	width:200px;
+	margin:15px;
+}
